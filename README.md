@@ -1,8 +1,4 @@
-Perfect ✅ Let’s make your GitHub README **pop** with **badges** and a **“Currently Working On”** section.
 
-Here’s the upgraded version:
-
----
 
 # 👋 Hi, I’m Ede Aibuedefe
 
@@ -83,8 +79,8 @@ Passionate about building scalable **cloud-native AI solutions**, optimizing **M
 ## 📫 Let’s Connect
 
 * 🌍 Portfolio: \[Coming Soon 🚀]
-* 💼 LinkedIn: [Your LinkedIn](#)
-* 📝 Medium / Blog: [Your Blog](#)
+* 💼 LinkedIn: https://www.linkedin.com/in/edeaibuedefe/
+* 📝 Medium / Blog: https://medium.com/@edeaibuedefe2
 
 ---
 
