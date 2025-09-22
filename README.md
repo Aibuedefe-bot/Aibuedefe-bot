@@ -79,8 +79,8 @@ Passionate about building scalable **cloud-native AI solutions**, optimizing **M
 ## 📫 Let’s Connect
 
 * 🌍 Portfolio: \[Coming Soon 🚀]
-* 💼 LinkedIn: https://www.linkedin.com/in/edeaibuedefe/
-* 📝 Medium / Blog: https://medium.com/@edeaibuedefe2
+* 💼 LinkedIn: [Aibuedefe Ede](https://www.linkedin.com/in/edeaibuedefe/) 
+* 📝 Medium / Blog:  [Diary of a Tech Sis](https://medium.com/@edeaibuedefe2)
 
 ---
 
@@ -88,4 +88,3 @@ Passionate about building scalable **cloud-native AI solutions**, optimizing **M
 
 ---
 
-👉 Do you also want me to add **cool dynamic badges** (like “Currently Learning AWS ML Specialty” or “Open to Work”)? They update automatically and recruiters love seeing them.
