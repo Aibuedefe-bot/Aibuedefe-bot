@@ -1,90 +1,58 @@
+# 👋 Hi, I'm Ede Aibuedefe
 
+### 🤖 Machine Learning Engineer — Agentic AI & RAG · MLOps on AWS
 
-# 👋 Hi, I’m Ede Aibuedefe
+I build and ship **production GenAI** — RAG pipelines, AI agents (MCP / Strands), and the MLOps that keeps them running.
 
-🚀 **AI Cloud Engineer | Machine Learning Enthusiast | Solutions Architect in Progress**
-Passionate about building scalable **cloud-native AI solutions**, optimizing **ML workflows**, and creating **production-ready architectures** on AWS.
-
----
-
-## 🌟 About Me
-
-* 💡 Currently an **AI Cloud Engineer Intern** at an AWS Partner company
-* 📚 Preparing for **AWS Solutions Architect** and **AWS Machine Learning Specialty** certifications
-* 🛠️ Building projects in **Terraform, Bedrock, Streamlit, and RAG architectures**
-* 🔥 Mission: To design **AI-powered, cloud-native systems** that solve real business problems and deliver measurable value
+- 🧠 Delivered **9 client GenAI POCs** at an AWS partner — RAG, agentic systems, voice AI & multimodal search across banking, aviation, agritech & more
+- 🚀 **GenAI CTO** of an AI app-builder startup · **Founder & CEO** of a live commerce platform
+- 🏆 **AWS Certified Machine Learning Engineer – Associate**
+- 📍 Lagos, Nigeria · open to **remote (global)**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech I work with
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
-
-## 🔭 Currently Working On
-
-* 📘 **AWS Solutions Architect** + **Machine Learning Specialty** certifications
-* 🌐 Building my **personal portfolio website** (to showcase projects + blogs)
-* 📊 Developing **real-world AI Cloud projects** that integrate ML + Serverless + RAG
-* 📝 Writing **case studies** on AI in fintech & smart policing
+**GenAI / ML:** RAG · Agentic AI (MCP, Strands) · LLMs · Prompt Engineering · SHAP · NLP · Computer Vision
+**Cloud / MLOps:** AWS (Bedrock, Lambda, SageMaker, Amazon Connect) · Vector DBs (FAISS, Pinecone, OpenSearch) · CI/CD
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Shipped & Live
 
-### 🔹 [AI Lesson Plan Generator](#)
+**🤖 [9Stack — AI App Builder](https://9stackai.vercel.app/)** — build apps & websites by chatting with AI. *Led GenAI as CTO; built the MVP.*
 
-> AWS Chalice + Bedrock + DynamoDB + S3 → Automatically generates and stores lesson plans
+**🛒 [Ojiffy — Quick-Commerce Marketplace](https://www.ojiffy.com/)** — live marketplace linking verified local vendors to fast last-mile delivery. *Founder & CEO · full-stack (Next.js).*
 
-* Used **Bedrock Agents** for orchestration
-* **Reduced latency** from 16s → 11s through optimization
-* Full serverless architecture
+**⚖️ [Legal GraphRAG Assistant](https://law-graphkb.streamlit.app/)** — GraphRAG chatbot over the Nigerian Constitution + a university handbook, using a Neo4j knowledge graph + vector retrieval for grounded answers.
 
 ---
 
-### 🔹 [Face Recognition Attendance System](#)
+## 🔨 Currently Building
 
-> Built with Streamlit, SQLite, and **facenet-pytorch (MTCNN + InceptionResnetV1)**
-
-* Supports real-time webcam input and stored images
-* Secure attendance logging with embeddings
+- **FraudLens** — explainable real-time fraud detection (gradient-boosting + SHAP + LLM explanations) · *0.78 PR-AUC, ~80% fraud caught at a tunable threshold*
+- **RAGLab** — benchmark RAG pipelines head-to-head on quality, cost & latency
 
 ---
 
-### 🔹 [Smart Policing with Data Science](#)
+## 📫 Let's Connect
 
-> Dissertation project applying **AI + IoT + CCTV analytics**
-
-* Literature analysis with ethics, methodology, and deployment strategies
-* Showcased **AI for public safety** applications
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edeaibuedefe/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@edeaibuedefe2)
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=edeaibuedefe\&theme=tokyonight\&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edeaibuedefe\&layout=compact\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Aibuedefe-bot&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aibuedefe-bot&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Let’s Connect
-
-* 🌍 Portfolio: \[Coming Soon 🚀]
-* 💼 LinkedIn: [Aibuedefe Ede](https://www.linkedin.com/in/edeaibuedefe/) 
-* 📝 Medium / Blog:  [Diary of a Tech Sis](https://medium.com/@edeaibuedefe2)
-
----
-
-✨ *Always learning. Always building. Always solving.*
-
----
-
+✨ *Always learning. Always building. Always shipping.*
